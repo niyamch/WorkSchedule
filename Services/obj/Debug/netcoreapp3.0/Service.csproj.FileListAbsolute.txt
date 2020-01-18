@@ -1,0 +1,11 @@
+C:\Users\PC\source\repos\WorkSchedule\Services\obj\Debug\netcoreapp3.0\Service.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\WorkSchedule\Services\obj\Debug\netcoreapp3.0\Service.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\WorkSchedule\Services\obj\Debug\netcoreapp3.0\Service.AssemblyInfo.cs
+C:\Users\PC\source\repos\WorkSchedule\Services\bin\Debug\netcoreapp3.0\Service.deps.json
+C:\Users\PC\source\repos\WorkSchedule\Services\bin\Debug\netcoreapp3.0\Service.dll
+C:\Users\PC\source\repos\WorkSchedule\Services\bin\Debug\netcoreapp3.0\Service.pdb
+C:\Users\PC\source\repos\WorkSchedule\Services\bin\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\PC\source\repos\WorkSchedule\Services\bin\Debug\netcoreapp3.0\DataAccess.pdb
+C:\Users\PC\source\repos\WorkSchedule\Services\obj\Debug\netcoreapp3.0\Service.csproj.CopyComplete
+C:\Users\PC\source\repos\WorkSchedule\Services\obj\Debug\netcoreapp3.0\Service.dll
+C:\Users\PC\source\repos\WorkSchedule\Services\obj\Debug\netcoreapp3.0\Service.pdb
